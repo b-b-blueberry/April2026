@@ -1,0 +1,9 @@
+﻿{
+    "Name": "Bouncer",
+    "Author": "blueberry",
+    "Version": "1.0.0",
+    "Description": "i bounce.",
+    "UniqueID": "blueberry.bouncer",
+    "EntryDll": "Bouncer.dll",
+    "UpdateKeys": [ "Nexus:44513" ]
+}
